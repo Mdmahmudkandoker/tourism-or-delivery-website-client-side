@@ -1,0 +1,19 @@
+.about{
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://c0.wallpaperflare.com/preview/587/135/765/map-travel-travel-map-explore.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 20px;
+    color: skyblue;
+}
+.about h1{
+    color: dimgray;
+    padding: 20px;
+}
+.goals *{
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px ;
+    text-align: left;
+}

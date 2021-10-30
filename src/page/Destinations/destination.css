@@ -1,0 +1,16 @@
+.destinations{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://wallpaperaccess.com/full/1318106.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+@media only screen and (min-width: 700px){
+    .destinations .container{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        align-items: flex-end;
+    }
+}

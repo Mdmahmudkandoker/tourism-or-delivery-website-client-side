@@ -1,0 +1,17 @@
+.details{
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+.details .wrapper{
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.col-sm-2, .col-sm-10{
+    width: 100%;
+}

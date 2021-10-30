@@ -1,0 +1,14 @@
+footer{
+    background-color: rgb(19, 18, 18);
+    color: lightslategray;
+    padding: 10px 0;
+    font-weight: bold;
+}
+footer ul{
+    width: 30%;
+    margin: 5px auto;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
